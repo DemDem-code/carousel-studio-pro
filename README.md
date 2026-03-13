@@ -1,6 +1,6 @@
 # Carousel Studio Pro
 
-A browser-based visual content creation tool for designing and exporting professional carousel slides — built for content creators and social media strategists who need polished, on-brand visuals without relying on Canva or Figma.
+A browser-based visual content creation tool for designing and exporting professional carousel slides built for content creators and social media strategists who need polished, on-brand visuals without relying on Canva or Figma.
 
 ## Why I Built This
 
