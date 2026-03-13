@@ -6,7 +6,7 @@ A browser-based visual content creation tool for designing and exporting profess
 
 I do content strategy and social media work for tech professionals, and I kept running into the same friction: existing tools were either too rigid for the kind of carousels I wanted to create, or required jumping between multiple apps. So I built my own.
 
-Carousel Studio Pro started as a quick fix and evolved through multiple iterations into a full-featured slide design tool — complete with custom color palettes, typography controls, export sharpness optimization, and project save/load functionality.
+Carousel Studio Pro started as a quick fix and evolved through multiple iterations into a full-featured slide design tool, complete with custom color palettes, typography controls, export sharpness optimization, and project save/load functionality.
 
 ## What It Does
 
